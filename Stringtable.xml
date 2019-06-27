@@ -1,11 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
-<Package name="ZeroAinzLoadOut">   
-            <Key ID="zlo_service_name">
-				<Original>Service</Original>
+
+<Project name="NFGMilsim1">
+  <Package name="ZeroAinzLoadOut">
+    <Key ID="zlo_service_name">
+		    <Original>Service</Original>
 				<English>Service</English>
 				<Italian>Servizio</Italian>
 				<Russian>Cервис</Russian>
-			</Key>
+		</Key>
 			<Key ID="zlo_apply_text">
 				<Original>Apply</Original>
 				<English>Apply</English>
@@ -162,9 +164,7 @@
 				<Italian>Info</Italian>
 				<Russian>Справка</Russian>
 			</Key>
-</Package>
-
-<Project name="ATM Airdrop">
+    </Package>
 	<Package name="ATMDrop">
 		<Key ID="STR_ATM_Alt">
 			<Original>Altitude:</Original>
