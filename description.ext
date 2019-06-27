@@ -38,7 +38,7 @@ reviveBleedOutDelay = 600;
 respawnVehicleDelay = 0;      // Delay prior to respawn
 respawnDialog = 1;            // default = 1. show respawn timer and scoreboard when killed.
 respawnOnStart = -1;
-respawnButton = 1;
+respawnButton = 1; 
 enableDebugConsole = 1;	      // 0 = disabled. 1 = admins, 2 = everybody. 0 is recommended in MP.
 allowFunctionsLog = 1;
 disabledAI=1;				  // No AI in playable units
@@ -50,12 +50,12 @@ forceRotorLibSimulation = 0;  // Default value: 0 - options based; 1 - force ena
 ///////////////////////////////////////////////////////////////////////////////
 
 corpseManagerMode = 1;
-corpseLimit = 10;
+corpseLimit = 60;
 corpseRemovalMinTime = 900;
 corpseRemovalMaxTime = 1500;
 
 wreckManagerMode = 1;
-wreckLimit = 10;
+wreckLimit = 30;
 wreckRemovalMinTime = 900;
 wreckRemovalMaxTime = 1500;
 
@@ -81,4 +81,16 @@ class CfgFunctions
 class RscTitles
 {
 	#include "GF_Earplugs\GF_Earplugs_HPP.hpp"
+};
+
+//ATM_Airdrop (Flagpole Halo Script)
+#include "ATM_airdrop\dialog.hpp"
+class CfgSounds
+{
+   sounds[] = {Vent,Vent2,Para};
+
+	class Vent {name="Vent";sound[]={ATM_airdrop\data\Vent.ogg,db-11,1.0};titles[] = {};};
+	class Vent2 {name="Vent2";sound[]={ATM_airdrop\data\Vent2.ogg,db-11,1.0};titles[] = {};};
+	class Para {name="Para";sound[]={ATM_airdrop\data\parachute.ogg,db-11,1.0};titles[] = {};};
+
 };
