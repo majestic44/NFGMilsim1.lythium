@@ -82,3 +82,15 @@ class RscTitles
 {
 	#include "GF_Earplugs\GF_Earplugs_HPP.hpp"
 };
+
+//ATM_Airdrop (Flagpole Halo Script)
+#include "ATM_airdrop\dialog.hpp"
+class CfgSounds
+{
+   sounds[] = {Vent,Vent2,Para};
+
+	class Vent {name="Vent";sound[]={ATM_airdrop\data\Vent.ogg,db-11,1.0};titles[] = {};};
+	class Vent2 {name="Vent2";sound[]={ATM_airdrop\data\Vent2.ogg,db-11,1.0};titles[] = {};};
+	class Para {name="Para";sound[]={ATM_airdrop\data\parachute.ogg,db-11,1.0};titles[] = {};};
+
+};

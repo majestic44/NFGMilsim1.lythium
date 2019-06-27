@@ -57,6 +57,7 @@ This mission file has the ability to be configured in many ways to make it very 
 - Repetitive Cleanup
 - Teleport
 - [[R3F] Logistics](https://forums.bohemia.net/forums/topic/170033-r3f-logistics/)
+- [=ATM= Airdrop(HALO)](http://www.armaholic.com/page.php?id=21307)
 
 ------------
 ![](https://i.imgur.com/Kf7mAQj.png)
