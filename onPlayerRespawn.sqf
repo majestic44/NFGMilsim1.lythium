@@ -1,6 +1,7 @@
 ///////////////////////////////////////////////////////////////////////////////
 // Fatigue/Stamina/Coefficient/Injured Settings
 ///////////////////////////////////////////////////////////////////////////////
+[player, [missionNamespace, "inventory_var"]] call //Save loadout when ever we exit an arsenal
 player setCustomAimCoef 0.35;
 player setUnitRecoilCoefficient 0.25;
 player enableStamina false;

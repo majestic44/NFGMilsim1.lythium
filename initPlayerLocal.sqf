@@ -50,5 +50,10 @@ _unit = _this select 0;
 [_UNIT,"Marker_RepairHST",20] spawn zlo_fnc_CreateZone;
 
 ///////////////////////////////////////////////////////////////////////////////
-//
+//Save loadout when ever we exit an arsenal
 ///////////////////////////////////////////////////////////////////////////////
+[ missionNamespace, "arsenalClosed", {
+	systemChat "Loadout Saved";    //Not actually needed, can say anything you want
+	waitUntil {time > 0.2};    //Time to wait to make sure Arsenal items are applied
+	[player, [missionNamespace, "inventory_var"]] call BIS_fnc_saveInventory;
+}] call BIS_fnc_addScriptedEventHandler;
