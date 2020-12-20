@@ -68,8 +68,9 @@ This mission file has the ability to be configured in many ways to make it very 
 - [=ATM= Airdrop(HALO)](http://www.armaholic.com/page.php?id=21307)
 
 ------------
-![](https://i.imgur.com/Kf7mAQj.png)
 ![](https://i.imgur.com/zL99Fm9.png) Created By: **Majestic44**
+
+![](https://i.imgur.com/Kf7mAQj.png)
 
 ### Special Credits
 
