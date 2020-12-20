@@ -69,7 +69,7 @@ This mission file has the ability to be configured in many ways to make it very 
 
 ------------
 ![](https://i.imgur.com/Kf7mAQj.png)
-![](https://i.imgur.com/xIGCWRi.png) Created By: **Majestic44**
+![](https://i.imgur.com/TOJvMrw.png) Created By: **Majestic44**
 
 ### Special Credits
 
