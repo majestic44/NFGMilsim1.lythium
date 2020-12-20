@@ -31,14 +31,22 @@ This mission file has the ability to be configured in many ways to make it very 
 - [DynaSound 2](https://steamcommunity.com/sharedfiles/filedetails/?id=825181638)
 - [Enhanced Movement](https://steamcommunity.com/sharedfiles/filedetails/?id=333310405)
 - [Enhanced Soundscape](https://steamcommunity.com/sharedfiles/filedetails/?id=825179978)
-- [GOS Sac Ventral](https://steamcommunity.com/sharedfiles/filedetails/?id=918921551)
 - [Jbad](https://steamcommunity.com/sharedfiles/filedetails/?id=520618345)
 - [LYTHIUM](https://steamcommunity.com/sharedfiles/filedetails/?id=909547724)
 - [MCC Sandbox 4](https://steamcommunity.com/sharedfiles/filedetails/?id=338988835)
 - [Project OPFOR](https://steamcommunity.com/sharedfiles/filedetails/?id=735566597)
 - [RHSAFRF](https://steamcommunity.com/sharedfiles/filedetails/?id=843425103)
 - [RHSUSAF](https://steamcommunity.com/sharedfiles/filedetails/?id=843577117)
+- [RHSGREF](https://steamcommunity.com/sharedfiles/filedetails/?id=843593391)
 - [Specialist Military Arms (SMA)](https://steamcommunity.com/sharedfiles/filedetails/?id=699630614)
+- [ACE](https://steamcommunity.com/sharedfiles/filedetails/?id=463939057)
+- [ACE Compat - RHS United States Armed Forces](https://steamcommunity.com/sharedfiles/filedetails/?id=773125288)
+- [ACE Compat - RHS Armed Forces of the Russian Federation](https://steamcommunity.com/sharedfiles/filedetails/?id=773131200)
+- [ACE Compat - RHS: GREF](https://steamcommunity.com/sharedfiles/filedetails/?id=884966711)
+- [Enhanced Movement (ACEX Fix)](https://steamcommunity.com/sharedfiles/filedetails/?id=1586691629)
+- [Task Force Arrowhead Radio (BETA!!!)](https://steamcommunity.com/sharedfiles/filedetails/?id=894678801)
+
+
 
 `Steam Workshop Collection` : [CLICK HERE](https://steamcommunity.com/sharedfiles/filedetails/?id=1779705575)
 
