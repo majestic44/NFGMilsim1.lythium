@@ -1,6 +1,6 @@
 ## Mission File Information
 
-![](https://i.imgur.com/THyyS8Y.png)
+![](https://i.imgur.com/d4YKBEg.png)
 
 **This mission file was created for the NFG/11thABN Group.**
 > Its function is to assist in the simple creation of Private Event Operations other than the PVP Exile server for the group.
