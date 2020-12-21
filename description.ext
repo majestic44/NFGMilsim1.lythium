@@ -3,7 +3,7 @@
 ///////////////////////////////////////////////////////////////////////////////
 author = "[NFG]Majestic44";
 onLoadName = "11th ABN Milsim Mission 1";
-onLoadMission= "<t color='#FF0000'>V e r s i o n    1 . 4<br /><t color='#FCEF06'>https://discord.gg/VZCJgT6";
+onLoadMission= "<t color='#FF0000'>V e r s i o n    4 . 1<br /><t color='#FCEF06'>https://discord.gg/spearheadgaming";
 loadScreen = "preview.paa";
 overviewPicture = "preview.paa";
 disableChannels[] = {0, 2};
@@ -21,7 +21,7 @@ class Header
 {
  gameType = Zeus;
  minPlayers = 1;
- maxPlayers = 52;
+ maxPlayers = 63;
 };
 
 ///////////////////////////////////////////////////////////////////////////////
